@@ -1,2 +1,0 @@
-## djallal.me
-Portfolio website
