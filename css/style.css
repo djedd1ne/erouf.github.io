@@ -30,7 +30,7 @@ body {
 
 section {
     min-height: 100vh;
-    padding: 100rem 9% 2rem;
+    padding: 1rem 9% 2rem;
 }
 
 .header {
@@ -57,6 +57,7 @@ section {
     font-size: 1.7rem;
     color: var(--text-color);
     margin-left: 4rem;
+    transition: .3s;
 }
 
 .navbar a:hover,
