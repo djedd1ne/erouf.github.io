@@ -124,3 +124,8 @@ span {
     color: var(--second-bg-color);
     box-shadow: 0 0 1rem var(--main-color);
 }
+
+.youtube-video {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+  }
